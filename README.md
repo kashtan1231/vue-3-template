@@ -1,4 +1,4 @@
-# jsdelivr-interface
+# Vue 3 template
  
 It is template of vue 3 project with vite
 
